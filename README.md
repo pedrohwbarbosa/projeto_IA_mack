@@ -2,7 +2,7 @@ Database Spotify
 Itegrantes: Isabella Abreu Comelli - 10400807, Pedro Henrique Wege Barbosa - 10400851
 Link do Colab:
 
-https://colab.research.google.com/drive/1rr6noxzXdB7f6xwbzzrvlD5WYVw7TArR?usp=sharing
+https://colab.research.google.com/drive/1e98F4sGzDGGKwxg0FIGHOSeJwGHfOXV4#scrollTo=UPbphoA28PtW
 
 Arquivos disponíveis em:
 
